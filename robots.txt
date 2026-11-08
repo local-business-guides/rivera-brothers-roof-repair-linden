@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/rivera-brothers-roof-repair-linden/sitemap.xml
+Sitemap: https://local-business-guides.github.io/rivera-brothers-roof-repair-linden/news-sitemap.xml
